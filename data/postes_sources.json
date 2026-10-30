@@ -1,0 +1,20 @@
+[
+    {
+        "id": "PS-01",
+        "nom": "Poste Brest Nord",
+        "capacite_mw": 100.0,
+        "seuil_alerte_charge": 0.85
+    },
+    {
+        "id": "PS-02",
+        "nom": "Poste Quimper Sud",
+        "capacite_mw": 80.0,
+        "seuil_alerte_charge": 0.8
+    },
+    {
+        "id": "PS-03",
+        "nom": "Poste Lorient Port",
+        "capacite_mw": 120.0,
+        "seuil_alerte_charge": 0.9
+    }
+]
